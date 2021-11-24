@@ -81,7 +81,7 @@ It is likewise utilized as front end in may cases just as in number of web syste
 <h2>Java is the most widely recognized programming language and its especially sought after. It is a broadly useful programming language and can be utilized in any stages.<br>
 It is the most well known programming language. It is utilized for Big information and for web and programming advancement.<br>
 <br>ADVANTAGES<br>
-•	Flexibility<br>
+•	Flexibility.<br>
 •	Object oriented<br>
 •	Simple syntax<br>
 •	Less security risks<br>
